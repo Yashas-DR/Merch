@@ -3,7 +3,8 @@
 ```md
 # Merch
 
-![Merch App](./path_to_image/image.png)
+![Alt Text]([https://raw.githubusercontent.com/username/repo/branch/path_to_image/image.png](https://github.com/Yashas-DR/Merch/blob/main/image.png))
+
 
 ## Overview
 Merch is an e-commerce platform for showcasing and selling merchandise. This project provides a frontend developed using React.js. 
