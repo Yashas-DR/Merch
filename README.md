@@ -3,7 +3,7 @@
 ```md
 # Merch
 
-![Alt Text]([https://raw.githubusercontent.com/username/repo/branch/path_to_image/image.png](https://github.com/Yashas-DR/Merch/blob/main/image.png))
+![Merch App](image.png)
 
 
 ## Overview
