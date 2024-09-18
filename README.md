@@ -1,16 +1,9 @@
-
-
-```md
 # Merch
 
-![Merch](https://github.com/Yashas-DR/Merch/blob/main/image.png?raw=true)
-
-
-
+![Merch](https://raw.githubusercontent.com/Yashas-DR/Merch/main/image.png)
 
 ## Overview
 Merch is an e-commerce platform for showcasing and selling merchandise. This project provides a frontend developed using React.js. 
-
 
 ## Getting Started
 
@@ -25,6 +18,7 @@ To get a local copy up and running, follow these simple steps.
 
 ```bash
 git clone https://github.com/Yashas-DR/Merch.git
+
 ```
 
 ### Install Dependencies
